@@ -1,0 +1,30 @@
+{
+    "terminal.integrated.fontSize": 14,
+    "workbench.startupEditor": "newUntitledFile",
+    
+    "editor.tabSize": 2,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 26,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.semanticHighlighting.enabled": false,
+  
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+    
+    "editor.rulers": [
+      80,
+      120
+    ],
+    "window.menuBarVisibility": "toggle",
+    "workbench.productIconTheme": "fluent-icons",
+    "terminal.integrated.showExitAlert": false,
+  
+    "window.zoomLevel": -1,
+    "tabnine.experimentalAutoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+  }
